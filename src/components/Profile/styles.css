@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(rgba(159, 190, 216, 0.8), rgba(38, 97, 121, 0.9));
+}
+
+img{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    
+
+}
+
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+}
+
